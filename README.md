@@ -9,4 +9,5 @@ Currently, two official plugins are available:
 
 - A simple Todolist webApp with React
 
-![Uploading Screenshot 2024-11-30 at 1.32.26 AM.png…]()
+
+<img width="394" alt="Screenshot 2024-11-30 at 1 32 26 AM" src="https://github.com/user-attachments/assets/871f2388-10d2-4b67-9de8-b1a35f7c77ae">
